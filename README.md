@@ -1,6 +1,6 @@
 # Novum
 
-Nanoloop song files (.nan) for the debut album entitled "Novum"
+Nanoloop song files (.nan) for the second album entitled "Novum"
 
 ## Tracklist
 
